@@ -22,7 +22,7 @@ All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. J
 [https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.001](https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.001)  
 [https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.002](https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.002)  
 [https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.003](https://github.com/PoeticSubterfuge/server/releases/download/latest/server.7z.003)  
-### [Forensic Workstation](https://github.com/PoeticSubterfuge/forensic) (REMnux + SIFT)  
+### [Forensic Workstation (REMnux + SIFT)](https://github.com/PoeticSubterfuge/forensic)  
 [https://github.com/PoeticSubterfuge/forensic/releases/download/latest/HunterKiller.7z.001](https://github.com/PoeticSubterfuge/forensic/releases/download/latest/HunterKiller.7z.001)  
 [https://github.com/PoeticSubterfuge/forensic/releases/download/latest/HunterKiller.7z.002](https://github.com/PoeticSubterfuge/forensic/releases/download/latest/HunterKiller.7z.002)  
 ### [macOS 10.12 Sierra](https://github.com/PoeticSubterfuge/fruit)  
