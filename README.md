@@ -63,3 +63,4 @@ Teach, learn, disrupt, create, destroy, and enjoy.
 [https://playbook.cio.gov](https://playbook.cio.gov)  
 [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)  
 [https://www.usc.edu/~douglast/202/lecture23/manifesto.html](https://www.usc.edu/~douglast/202/lecture23/manifesto.html)  
+[http://www.catb.org/hacker-emblem/](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
