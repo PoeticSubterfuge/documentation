@@ -28,7 +28,7 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.004](https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.004)  
 [https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.005](https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.005)  
 [https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.006](https://github.com/PoeticSubterfuge/client/releases/download/latest/client.7z.006)  
-### ["sniffles" (Security Onion)](https://github.com/PoeticSubterfuge/sniffles)  
+### ["sniffles" (Security Onion + SiLK + FlowBAT + NTOPNG)](https://github.com/PoeticSubterfuge/sniffles)  
 [https://github.com/PoeticSubterfuge/sniffles/releases/download/latest/sniffles.7z.001](https://github.com/PoeticSubterfuge/sniffles/releases/download/latest/sniffles.7z.001)  
 [https://github.com/PoeticSubterfuge/sniffles/releases/download/latest/sniffles.7z.002](https://github.com/PoeticSubterfuge/sniffles/releases/download/latest/sniffles.7z.002)  
 ### ["server" (Windows Server 2016)](https://github.com/PoeticSubterfuge/server)  
