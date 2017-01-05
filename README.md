@@ -14,7 +14,7 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | pomade   | bill.jenkins   | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
-If you don't know the password to decrypt them, ask in the slack channel.  
+If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
 ### [Kali Landing Point](https://github.com/PoeticSubterfuge/hack)  
 [https://github.com/PoeticSubterfuge/hack/releases/download/latest/hack.7z.001](https://github.com/PoeticSubterfuge/hack/releases/download/latest/hack.7z.001)  
 [https://github.com/PoeticSubterfuge/hack/releases/download/latest/hack.7z.002](https://github.com/PoeticSubterfuge/hack/releases/download/latest/hack.7z.002)  
