@@ -1,5 +1,5 @@
 # Introduction  
-The PoeticSubterfuge project includes a number of virtual machine images. You will find download links for all of them below. Once downloaded, the chunks for each OVA must be decrypted and re-assembled. You can do this manually with [7-Zip](http://www.7-zip.org/a/7z1604-x64.msi), or via the download scripts/funtions located in each repository.  
+The PoeticSubterfuge project includes a number of virtual machine images, scripts, templates, and definitions. You will find download links for all of the OVA images below. Once downloaded, the chunks for each OVA must be decrypted and re-assembled. You can do this manually with [7-Zip](http://www.7-zip.org/a/7z1604-x64.msi), or via the download scripts/funtions located in each repository.  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 ### Kali Landing Point  
