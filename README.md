@@ -1,4 +1,6 @@
 # PoeticSubterfuge Documentation  
+## Intro
+In the beginning...
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Mission  
