@@ -14,6 +14,7 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | pomade       | bill.jenkins   | P@ssw0rd1      |  
 | preciface    | root           | P@ssw0rd1      |  
 | UltimateLAMP | vmware         | vmware         |  
+| aether       | root           | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -61,6 +62,8 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001](https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001)  
 ### ["UltimateLAMP" (UltimateLAMP 0.2)](https://github.com/PoeticSubterfuge/UltimateLAMP)  
 [https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001](https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001)  
+### ["aether" (turnkey-etherpad-14.1-jessie-amd64)](https://github.com/PoeticSubterfuge/aether)  
+[https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001](https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Mission  
