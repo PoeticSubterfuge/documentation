@@ -12,6 +12,9 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | gorked   | admin          | password       |  
 | vanilla  | root           | P@ssw0rd1      |  
 | pomade   | bill.jenkins   | P@ssw0rd1      |  
+| kitschy  | root           | P@ssw0rd1      |  
+| wicked   | root           | P@ssw0rd1      |  
+| chitty   | root           | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -55,6 +58,12 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.001](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.001)  
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.002](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.002)  
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.003](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.003)  
+### ["kitschy" (turnkey-gitlab)](https://github.com/PoeticSubterfuge/kitschy)  
+[https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001](https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001)  
+### ["wicked" (turnkey-mediawiki)](https://github.com/PoeticSubterfuge/wicked)  
+[https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001](https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001)  
+### ["chitty" (turnkey-mattermost)](https://github.com/PoeticSubterfuge/chitty)  
+[https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001](https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Mission  
