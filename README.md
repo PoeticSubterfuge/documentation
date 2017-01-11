@@ -65,7 +65,7 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001](https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001)  
 ### ["UltimateLAMP" (UltimateLAMP 0.2)](https://github.com/PoeticSubterfuge/UltimateLAMP)  
 [https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001](https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001)  
-### ["aether" (turnkey-etherpad-14.1-jessie-amd64)](https://github.com/PoeticSubterfuge/aether)  
+### ["aether" (turnkey-etherpad)](https://github.com/PoeticSubterfuge/aether)  
 [https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001](https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001)  
 ### ["kitschy" (turnkey-gitlab)](https://github.com/PoeticSubterfuge/kitschy)  
 [https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001](https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001)  
