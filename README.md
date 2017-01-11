@@ -1,6 +1,7 @@
 # Introduction  
 The PoeticSubterfuge project includes a number of virtual machine images, scripts, templates, and definitions. You will find download links for all of the OVA images below. Once downloaded, the chunks for each OVA must be decrypted and re-assembled. You can do this manually with [7-Zip](http://www.7-zip.org/a/7z1604-x64.msi), or via the download scripts/funtions located in each repository.  
 ## Credentials  
+<<<<<<< HEAD
 | VM       | Username       | Password       |  
 |----------|----------------|----------------|  
 | hack     | root           | P@ssw0rd1      |  
@@ -15,6 +16,22 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | kitschy  | root           | P@ssw0rd1      |  
 | wicked   | root           | P@ssw0rd1      |  
 | chitty   | root           | P@ssw0rd1      |  
+=======
+| VM           | Username       | Password       |  
+|--------------|----------------|----------------|  
+| hack         | root           | P@ssw0rd1      |  
+| client       | Administrator  | P@ssw0rd1      |  
+| sniffles     | administrator  | P@ssw0rd1      |  
+| server       | Administrator  | P@ssw0rd1      |  
+| forensic     | remnux         | malware        |  
+| fruit        | administrator  | P@ssw0rd1      |  
+| gorked       | admin          | password       |  
+| vanilla      | root           | P@ssw0rd1      |  
+| pomade       | bill.jenkins   | P@ssw0rd1      |  
+| preciface    | root           | P@ssw0rd1      |  
+| UltimateLAMP | vmware         | vmware         |  
+| aether       | root           | P@ssw0rd1      |  
+>>>>>>> 47cb9e4ca7c6ab9f166778d1d52e7b73aa13d5d2
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -58,12 +75,21 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.001](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.001)  
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.002](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.002)  
 [https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.003](https://github.com/PoeticSubterfuge/pomade/releases/download/latest/pomade.7z.003)  
+<<<<<<< HEAD
 ### ["kitschy" (turnkey-gitlab)](https://github.com/PoeticSubterfuge/kitschy)  
 [https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001](https://github.com/PoeticSubterfuge/kitschy/releases/download/latest/kitschy.7z.001)  
 ### ["wicked" (turnkey-mediawiki)](https://github.com/PoeticSubterfuge/wicked)  
 [https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001](https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001)  
 ### ["chitty" (turnkey-mattermost)](https://github.com/PoeticSubterfuge/chitty)  
 [https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001](https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001)  
+=======
+### ["preciface" (turnkey-wordpress (Ubuntu 10.04 + WordPress 3.0.3 + MySQL 5.1))](https://github.com/PoeticSubterfuge/preciface)  
+[https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001](https://github.com/PoeticSubterfuge/preciface/releases/download/latest/preciface.7z.001)  
+### ["UltimateLAMP" (UltimateLAMP 0.2)](https://github.com/PoeticSubterfuge/UltimateLAMP)  
+[https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001](https://github.com/PoeticSubterfuge/UltimateLAMP/releases/download/latest/UltimateLAMP.7z.001)  
+### ["aether" (turnkey-etherpad-14.1-jessie-amd64)](https://github.com/PoeticSubterfuge/aether)  
+[https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001](https://github.com/PoeticSubterfuge/aether/releases/download/latest/aether.7z.001)  
+>>>>>>> 47cb9e4ca7c6ab9f166778d1d52e7b73aa13d5d2
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Mission  
