@@ -75,6 +75,8 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001](https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
+## Tool Shed  
+[https://github.com/PoeticSubterfuge/devops-glue/releases/tag/latest](https://github.com/PoeticSubterfuge/devops-glue/releases/tag/latest)  
 ## Mission  
 Teach, learn, disrupt, create, destroy, and enjoy.  
 ## Guiding Principles  
