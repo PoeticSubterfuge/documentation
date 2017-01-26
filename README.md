@@ -18,6 +18,9 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | kitschy      | root           | P@ssw0rd1      |  
 | wicked       | root           | P@ssw0rd1      |  
 | chitty       | root           | P@ssw0rd1      |  
+| antsy        | root           | P@ssw0rd1      |  
+| exodus       | Administrator  | P@ssw0rd1      |  
+| patsy        | Administrator  | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -73,6 +76,12 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001](https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001)  
 ### ["chitty" (turnkey-mattermost)](https://github.com/PoeticSubterfuge/chitty)  
 [https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001](https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001)  
+### [antsy (turnkey-ansible)](https://github.com/PoeticSubterfuge/antsy)  
+[https://github.com/PoeticSubterfuge/antsy/releases/download/latest/antsy.7z.001](https://github.com/PoeticSubterfuge/antsy/releases/download/latest/antsy.7z.001)  
+### [exodus (Windows XP Pro SP3)](https://github.com/PoeticSubterfuge/exodus)  
+[https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001](https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001)  
+### [patsy (Windows Server 2003 Enterprise)](https://github.com/PoeticSubterfuge/patsy)  
+[https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001](https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Tool Shed  
