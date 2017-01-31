@@ -1,26 +1,27 @@
 # Introduction  
 The PoeticSubterfuge project includes a number of virtual machine images, scripts, templates, and definitions. You will find download links for all of the OVA images below. Once downloaded, the chunks for each OVA must be decrypted and re-assembled. You can do this manually with [7-Zip](http://www.7-zip.org/a/7z1604-x64.msi), or via the download scripts/funtions located in each repository.  
 ## Credentials  
-| VM           | Username       | Password       |  
-|--------------|----------------|----------------|  
-| hack         | root           | P@ssw0rd1      |  
-| client       | Administrator  | P@ssw0rd1      |  
-| sniffles     | administrator  | P@ssw0rd1      |  
-| server       | Administrator  | P@ssw0rd1      |  
-| forensic     | remnux         | malware        |  
-| fruit        | administrator  | P@ssw0rd1      |  
-| gorked       | admin          | password       |  
-| vanilla      | root           | P@ssw0rd1      |  
-| pomade       | bill.jenkins   | P@ssw0rd1      |  
-| preciface    | root           | P@ssw0rd1      |  
-| UltimateLAMP | vmware         | vmware         |  
-| aether       | root           | P@ssw0rd1      |  
-| kitschy      | root           | P@ssw0rd1      |  
-| wicked       | root           | P@ssw0rd1      |  
-| chitty       | root           | P@ssw0rd1      |  
-| antsy        | root           | P@ssw0rd1      |  
-| exodus       | Administrator  | P@ssw0rd1      |  
-| patsy        | Administrator  | P@ssw0rd1      |  
+| VM           | Username               | Password       |  
+|--------------|------------------------|----------------|  
+| hack         | root                   | P@ssw0rd1      |  
+| client       | Administrator          | P@ssw0rd1      |  
+| sniffles     | administrator          | P@ssw0rd1      |  
+| server       | Administrator          | P@ssw0rd1      |  
+| forensic     | remnux                 | malware        |  
+| fruit        | administrator          | P@ssw0rd1      |  
+| gorked       | admin                  | password       |  
+| vanilla      | root                   | P@ssw0rd1      |  
+| pomade       | bill.jenkins           | P@ssw0rd1      |  
+| preciface    | root                   | P@ssw0rd1      |  
+| UltimateLAMP | vmware                 | vmware         |  
+| aether       | root                   | P@ssw0rd1      |  
+| kitschy      | root                   | P@ssw0rd1      |  
+| wicked       | root                   | P@ssw0rd1      |  
+| chitty       | root                   | P@ssw0rd1      |  
+| antsy        | root                   | P@ssw0rd1      |  
+| exodus       | Administrator          | P@ssw0rd1      |  
+| patsy        | Administrator          | P@ssw0rd1      |  
+| sp           | JETBLACK\Administrator | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -82,6 +83,15 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001](https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001)  
 ### [patsy (Windows Server 2003 Enterprise)](https://github.com/PoeticSubterfuge/patsy)  
 [https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001](https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001)  
+### [sp (SharePoint 2016)](https://github.com/PoeticSubterfuge/sp)
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.001](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.001)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.002](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.002)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.003](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.003)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.004](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.004)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.005](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.005)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.006](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.006)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.007](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.007)  
+[https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.008](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.008)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Tool Shed  
