@@ -22,6 +22,8 @@ The PoeticSubterfuge project includes a number of virtual machine images, script
 | exodus       | Administrator          | P@ssw0rd1      |  
 | patsy        | Administrator          | P@ssw0rd1      |  
 | sp           | JETBLACK\Administrator | P@ssw0rd1      |  
+| windward     | Administrator          | P@ssw0rd1      |  
+| postman      | MAIL\Administrator     | P@ssw0rd1      |  
 ## Download Links  
 All images are packaged as OVAs. Then encrypted and chunked (2GB) using 7-Zip. Just download all chunks and re-assemble.  
 If you don't know the password to decrypt them, ask in the [slack channel](https://poeticsubterfuge.slack.com/).  
@@ -77,13 +79,13 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001](https://github.com/PoeticSubterfuge/wicked/releases/download/latest/wicked.7z.001)  
 ### ["chitty" (turnkey-mattermost)](https://github.com/PoeticSubterfuge/chitty)  
 [https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001](https://github.com/PoeticSubterfuge/chitty/releases/download/latest/chitty.7z.001)  
-### [antsy (turnkey-ansible)](https://github.com/PoeticSubterfuge/antsy)  
+### ["antsy" (turnkey-ansible)](https://github.com/PoeticSubterfuge/antsy)  
 [https://github.com/PoeticSubterfuge/antsy/releases/download/latest/antsy.7z.001](https://github.com/PoeticSubterfuge/antsy/releases/download/latest/antsy.7z.001)  
-### [exodus (Windows XP Pro SP3)](https://github.com/PoeticSubterfuge/exodus)  
+### ["exodus" (Windows XP Pro SP3)](https://github.com/PoeticSubterfuge/exodus)  
 [https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001](https://github.com/PoeticSubterfuge/exodus/releases/download/latest/exodus.7z.001)  
-### [patsy (Windows Server 2003 Enterprise)](https://github.com/PoeticSubterfuge/patsy)  
+### ["patsy" (Windows Server 2003 Enterprise)](https://github.com/PoeticSubterfuge/patsy)  
 [https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001](https://github.com/PoeticSubterfuge/patsy/releases/download/latest/patsy.7z.001)  
-### [sp (SharePoint 2016)](https://github.com/PoeticSubterfuge/sp)
+### ["sp" (SharePoint 2016)](https://github.com/PoeticSubterfuge/sp)
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.001](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.001)  
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.002](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.002)  
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.003](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.003)  
@@ -92,6 +94,17 @@ If you don't know the password to decrypt them, ask in the [slack channel](https
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.006](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.006)  
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.007](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.007)  
 [https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.008](https://github.com/PoeticSubterfuge/sp/releases/download/latest/sp.7z.008)  
+### ["windward" (Windows 10 Enterprise x86 (tech preview))](https://github.com/PoeticSubterfuge/windward)
+[https://github.com/PoeticSubterfuge/windward/releases/download/latest/windward.7z.001](https://github.com/PoeticSubterfuge/windward/releases/download/latest/windward.7z.001)  
+[https://github.com/PoeticSubterfuge/windward/releases/download/latest/windward.7z.002](https://github.com/PoeticSubterfuge/windward/releases/download/latest/windward.7z.002)  
+### ["postman" (MS Exchange 2016 CU4 on 2012R2)](https://github.com/PoeticSubterfuge/postman)
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.001](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.001)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.002](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.002)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.003](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.003)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.004](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.004)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.005](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.005)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.006](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.006)  
+[https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.007](https://github.com/PoeticSubterfuge/postman/releases/download/latest/postman.7z.007)  
 ## ChatOps  
 [https://poeticsubterfuge.slack.com/signup](https://poeticsubterfuge.slack.com/signup)  
 ## Tool Shed  
